@@ -21,6 +21,6 @@ class Builder {
 	}
 
 	public void reverify() {
-		console.log("")
+        console.log(""); // The change is here 
 	}
 }
